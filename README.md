@@ -69,9 +69,8 @@ NestShop lacked centralized visibility into its operational data and needed a re
 
 ## 📁 Files Included
 
-- `NestShop_Sales_Dashboard.pbix` – Power BI report file
-- `Raw_Data/` – Folder containing cleaned and formatted Excel/CSV source files (if applicable)
-- `Data_Dictionary.xlsx` – Description of tables and columns used in the model (optional)
+- `ShopNest Report` – Power BI report file
+- `Raw_Data/` – Folder containing cleaned and formatted Excel
 
 ---
 
