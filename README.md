@@ -70,7 +70,6 @@ NestShop lacked centralized visibility into its operational data and needed a re
 ## 📁 Files Included
 
 - `ShopNest Report` – Power BI report file
-- `Raw_Data/` – Folder containing cleaned and formatted Excel
 
 ---
 
